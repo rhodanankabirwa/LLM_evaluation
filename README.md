@@ -1,5 +1,5 @@
 # LLM_evaluation
-we adapt and implement two ensemble models: LLM-Blender (https://github.com/yuchenlin/LLM-Blender) and PackLLM (https://github.com/yuchenlin/LLM-Blender). This study is not intended to compare the effectiveness of different ensemble models, but rather to determine whether ensemble models, in general, generate qualitatively superior outputs compared to single LLMs like ChatGPT.
+We adapt and implement two ensemble models: LLM-Blender (https://github.com/yuchenlin/LLM-Blender) and PackLLM (https://github.com/yuchenlin/LLM-Blender). This study is not intended to compare the effectiveness of different ensemble models, but rather to determine whether ensemble models, in general, generate qualitatively superior outputs compared to single LLMs like ChatGPT.
 The detailed outpus are presented below:
 
 Table 1: LLM-Blender candidate responses to the query: Are there any linkages between sea ice retreat and ice shelf melt in the Antarctica? 
