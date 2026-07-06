@@ -19,10 +19,10 @@ the ensemble approach.
 
 ## Evaluation domains
 The preliminary evaluation is based on questions from:
-Polar science
-Agriculture and soil management
+- Polar science
+- Agriculture and Soil Management
 
-## Implementation Notes
+## Implementation
 
 The ensemble methods were run separately using the code from their respective GitHub repositories. The core inference logic from the original implementations was preserved as much as possible. This project did not aim to redesign or optimize the ensemble algorithms themselves.
 
@@ -35,7 +35,13 @@ The main modifications were:
 - **Input-output handling:** model outputs and ensemble responses are saved in readable plain-text result files.
 - **Deployment efficiency:** the scripts support iterative testing on a SLURM-based computing environment.
 
-For the polar science question, domain experts ranked the responses based on the quality of the output. The Agricltural question answer output was not formally evaluated by a domain expert and as such, the observations are treated preliminarily.
+The workflow consisted of four main steps:
+1. Select a domain-specific prompt
+2. Generate candidate responses from multiple LLMs
+3. Run each ensembl using its adapted script
+4. Save the raw outputs, rankings and final ensemble responses for qualitative evaluation.
+
+For the polar science question, domain experts ranked the responses based on the quality of the output. The Agricltural domain answer output was not formally evaluated by a domain expert and as such, the observations are treated preliminarily.
 
 ## Data and results
 The raw outputs are provided in the directory.
