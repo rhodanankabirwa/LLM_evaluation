@@ -40,10 +40,11 @@ For the polar science question, domain experts ranked the responses based on the
 ## Data and results
 The raw outputs are provided in the directory.
  
-llm_blender_polar_domain_candidate_responses.csv|Candidate model responses for the Antarctic sea ice and ice shelf question
+llm_blender_polar_domain_candidate_responses.csv | Candidate model responses for the Antarctic sea ice and ice shelf question.
 
-llm_blender_agriculture_domain_candidate_responses.csv | Candidate model responses for the Agriculture and Soil Management question
-**** Final responses from ChatGPT, PackLLM and LLM Blender
+llm_blender_agriculture_domain_candidate_responses.csv | Candidate model responses for the Agriculture and Soil Management question.
+
+Final_model_generated_responses.csv | Final responses from ChatGPT, PackLLM and LLM-Blender.
 
 ## Preliminary Findings
 In the polar science example, the single LLM responses was ranked highest by the domain expert, followed by PackLLM and then LLM Blender. On the other hand, the ensemble generated responses by PackLLM contained ungrounded claims for the agricultural query.
