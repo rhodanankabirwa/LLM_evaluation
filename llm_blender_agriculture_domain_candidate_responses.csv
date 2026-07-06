@@ -1,0 +1,12 @@
+﻿Model,Response,PAIRRANKER
+OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,"The best crop for sandy soil is one that can tolerate the soil's low nutrient levels, such as drought-tolerant crops like beans, peas, and alfalfa. Additionally, crops that are well-suited for sandy soil, such as carrots and radishes, can help to improve soil structure and aeration",3
+lmsys/vicuna-7b-v1.3,"Sandy soil is a type of soil that is poor in nutrients and has a high percentage of sand particles. Sandy soil is typically found in areas where there is a lot of sand, such as deserts or near the beach. It is not very good for growing crops because it does not retain water well and has poor soil structure. However, there are some crops that can grow in sandy soil and are well-suited for the conditions. One of the best crops for sandy soil is wheat. Wheat is a hardy crop that can tolerate a wide range of soil conditions, including sandy soil. It can grow well in sandy soil because it has a deep root system",1
+alpaca (chavinlo/alpaca-native),"The best crops for sandy soil are those that have deep roots, such as legumes, alfalfa, and perennial grasses. These types of plants can help to improve the structure and texture of the soil by trapping and holding onto the soil particles and providing the soil with much-needed nutrients. Additionally, these plants can tolerate the dry conditions that sandy soils often experience.",2
+project-baize/baize-v2-7b,Failed for baize: CUDA out of memory,
+fnlp/moss-moon-003-sft,Failed for moss: MossTokenizer has no attribute encoder,
+THUDM/chatglm3-6b,Failed for chatglm: name 'AutoModel' is not defined,
+TheBloke/koala-7B-HF,Failed for koala: CUDA out of memory,
+databricks/dolly-v2-12b,"Kaffir Lime, Tomatoes, Cabbage, Carrots, Beets, Onions, Peas, String beans, Corn, Soybeans, Wheat, Barley, Rye, oats, Millet, Coffee, Tea, Sugarcane, and Cotton",4
+mpt (mosaicml/mpt-7b-instruct),Failed for mpt: [Errno 2] No such file or directory,
+stabilityai/stablelm-tuned-alpha-7b,Best suited to this climate is's 53,
+google/flan-t5-xxl,Oats,
