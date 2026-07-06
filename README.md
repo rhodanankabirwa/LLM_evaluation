@@ -40,7 +40,7 @@ For the polar science question, domain experts ranked the responses based on the
 ## Data and results
 The raw outputs are provided in the directory.
 * The prompts used in the evaluation
-** Candidate model responses for the Antarctic sea ice and ice shelf question
+llm_blender_polar_domain_candidate_responses.csv|Candidate model responses for the Antarctic sea ice and ice shelf question
 *** Candidate model responses for the Agriculture and Soil Management question
 **** Final responses from ChatGPT, PackLLM and LLM Blender
 
