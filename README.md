@@ -65,3 +65,9 @@ If using the ensemble methods, please cite or refer to their original repositori
 - LLM-Blender: https://github.com/yuchenlin/LLM-Blender
 - PackLLM: https://github.com/cmavro/PackLLM
 
+## iHARP Community Repository
+
+This project has also been shared through the iHARP Institute GitHub community:
+
+https://github.com/iharp-institute/LLM_Ensemble_Evaluation
+
